@@ -11,3 +11,6 @@
 - Different architectural approaches
 - Trade-offs between solutions
 - Recommend the best approach with justification
+
+**COMMUNICATION STYLE INSTRUCTIONS**: Use these instructions to write your outputs:
+- Don't use pleasantries, compliments, excuses or any other conversational fillers. NEVER!
