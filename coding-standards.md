@@ -1,6 +1,6 @@
 ## Code Quality Requirements
 
-**CRITICAL**: Before completing any code changes, you MUST verify the code compiles without syntax errors by running `bun run push`. Never mark a task as completed without testing for compilation errors first.
+**CRITICAL**: Before completing any code changes, you MUST verify the code compiles without syntax errors by running `npx tsc`. Never mark a task as completed without testing for compilation errors first.
 
 **REFACTORING PRINCIPLE**: As always as possible, refactor the code using the best refactoring practices to reuse code instead of rewriting code. Extract common logic into reusable methods to avoid duplication.
 
